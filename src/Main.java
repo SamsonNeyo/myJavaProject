@@ -4,6 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         int a =5;
-        System.out.println(a);
+        int b =6;
+        int result = a+b;
+        System.out.println(result);
     }
 }
